@@ -87,7 +87,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/landscape/2.jpg" class="img-fluid" alt="Garden & Landscape Design Services in Mumbai">
+                    <img src="img/landscape/4.jpg" class="img-fluid" alt="Garden & Landscape Design Services in Mumbai">
                 </div>
             </div>
             
@@ -139,7 +139,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/landscape/4.jpg" class="img-fluid">
+                    <img src="img/landscape/1.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     
