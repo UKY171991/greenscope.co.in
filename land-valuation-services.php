@@ -89,14 +89,14 @@ include 'includes/config.php';
 
                 </div>
                 <div class="col-md-6">
-                    <img src="https://www.shutterstock.com/image-photo/agronomist-inspecting-soya-bean-crops-600nw-2046093251.jpg" class="img-fluid">
+                    <img src="img/land/1.jpg" class="img-fluid">
                 </div>
             </div>
 
             
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://www.shutterstock.com/image-photo/smart-woman-farmer-agronomist-using-600nw-2034625139.jpg" class="img-fluid">
+                    <img src="img/land/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Agricultural Land Valuation</h2>
@@ -146,7 +146,7 @@ include 'includes/config.php';
                         <p>✔ Timely & Professional Service – Fast, reliable, and unbiased agricultural assessments.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://content.jdmagicbox.com/comp/def_content/estate-agents-for-agricultural-land/estate-agents-for-land6-estate-agents-for-agricultural-land-6-1tql2.jpg" class="img-fluid">
+                    <img src="img/land/3.jpg" class="img-fluid">
                 </div>
             </div>
 
