@@ -88,7 +88,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://cdn.prod.website-files.com/63a02e61e7ffb565c30bcfc7/6577ddf56d667c772c3bc639_walkway%20plants.webp" class="img-fluid">
+                    <img src="img/maintenance/1.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -96,7 +96,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://empressofdirt.net/wp-content/uploads/h1-Self-Watering-Garden-Options-V1.jpg" class="img-fluid">
+                    <img src="img/maintenance/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Garden Watering & Irrigation Management</h2>
@@ -121,7 +121,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://www.marconews.com/gcdn/-mm-/518e3e63fceb0d4e1142d004dd0c8db4da1ce808/c=0-438-5076-3306/local/-/media/2017/03/09/Cincinnati/Cincinnati/636246529580769095-FNPBrd2-02-28-2017-NewsPress-1-D001--2017-02-27-IMG-GettyImages-17578417-1-1-38HGOK2U-L980377760-IMG-GettyImages-17578417-1-1-38HGOK2U.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp" class="img-fluid">
+                    <img src="img/maintenance/3.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -130,7 +130,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://media.istockphoto.com/id/1174599995/photo/spraying-pesticide-with-portable-sprayer-to-eradicate-garden-weeds-in-the-lawn-weedicide.jpg?s=612x612&w=0&k=20&c=Q4l2DbnB833HZvSM3uLpaeMZcO5NjJGZF25tEHpRE-s=" class="img-fluid">
+                    <img src="img/maintenance/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Garden Spraying & Pest Control Services</h2>
@@ -157,7 +157,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://thearchitectsdiary.com/wp-content/uploads/2023/12/Home-Garden-ideas-04-1024x651.webp" class="img-fluid">
+                    <img src="img/maintenance/5.jpg" class="img-fluid">
                 </div>
             </div>
 
