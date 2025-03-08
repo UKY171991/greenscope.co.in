@@ -91,7 +91,7 @@ include 'includes/navigation.php';
                     </div>
                     </div>
                     <div class="col-md-6">
-                        <img src="https://www.iqglassuk.com/storage/images-processed/w-2000_h-auto_m-fit_s-down__stables-glass-link-banner-1024x456.png" class="img-fluid">
+                        <img src="img/drip/1.jpg" class="img-fluid">
                     </div>
                 </div>
 
