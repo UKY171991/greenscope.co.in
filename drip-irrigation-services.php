@@ -103,7 +103,7 @@ include 'includes/navigation.php';
             <div class="row g-5 align-items-end mt-3">
 
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="https://plantlane.com/cdn/shop/articles/smart-garden-using-computer-cont.jpg?v=1693835652" class="img-fluid">
+                    <img src="img/drip/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h3 class="mb-4">Key Benefits of Drip Irrigation & Sprinkler Systems </h3>
@@ -130,14 +130,14 @@ include 'includes/navigation.php';
 
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="https://img.freepik.com/premium-photo/caucasian-professional-garden-systems-technician-installing-drip-irrigation-newly-generative-ai_1259709-100337.jpg" class="img-fluid">
+                    <img src="img/drip/3.jpg" class="img-fluid">
                 </div>
 
             </div>
             <div class="row g-5 align-items-end mt-3">
 
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="https://simmonslandscape.com/wp-content/uploads/2022/09/305208792_494852709312342_3670050312234343201_n.webp" class="img-fluid">
+                    <img src="img/drip/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h2 class="mb-4">Drip Irrigation Maintenance & Repair Services </h2>
@@ -163,7 +163,7 @@ include 'includes/navigation.php';
 
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="https://images.pexels.com/photos/12887876/pexels-photo-12887876.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200" class="img-fluid">
+                    <img src="img/drip/5.jpg" class="img-fluid">
                 </div>
                 
             </div>
@@ -171,7 +171,7 @@ include 'includes/navigation.php';
 
             <div class="row g-5 align-items-end mt-3">
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="https://plantlane.com/cdn/shop/articles/smart-garden-using-computer-cont.jpg?v=1693835652" class="img-fluid">
+                    <img src="img/drip/6.jpg" class="img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h4 class="mb-4">Why Choose Us </h4>
