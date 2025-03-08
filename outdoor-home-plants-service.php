@@ -87,7 +87,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://hips.hearstapps.com/hmg-prod/images/balcony-plants-1653588912.jpg" class="img-fluid">
+                    <img src="img/outdoor/1.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -95,7 +95,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://www.midwestliving.com/thmb/AU3G-KiDsjU1agM2-mt7_WMjS0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102138928_preview-2000-557743471643439d97b80a540fc6f005.jpg" class="img-fluid">
+                    <img src="img/outdoor/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Outdoor Home Plants – Balcony & Garden Plant Solutions</h2>
@@ -127,13 +127,13 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://assets-news.housing.com/news/wp-content/uploads/2016/08/27180640/Balcony-gardening-ideas-for-Indian-homes-FB-1200x700-compressed.jpg" class="img-fluid">
+                    <img src="img/outdoor/3.jpg" class="img-fluid">
                 </div>
             </div>
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://images.homify.com/c_fill,f_auto,h_500,q_auto,w_1280/v1474783155/p/photo/image/1658120/EB_8.jpg" class="img-fluid">
+                    <img src="img/outdoor/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h3>Why Choose Us?</h3>
