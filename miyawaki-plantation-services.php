@@ -88,7 +88,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://cdn.prod.website-files.com/620e6fc20903c76d73735e50/62288919e736452d548ac04d_Untitled-3.jpg" class="img-fluid">
+                    <img src="img/miyawaki/1.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -96,7 +96,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://growbilliontrees.com/cdn/shop/files/grow-billion-trees-plantation-1.jpg?v=1712395590&width=1500" class="img-fluid">
+                    <img src="img/miyawaki/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Site Selection & Soil Preparation</h2>
@@ -124,7 +124,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://cdn.prod.website-files.com/620e6fc20903c76d73735e50/6228c0a43a59114741c382b9_q5.jpg" class="img-fluid">
+                    <img src="img/miyawaki/3.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -132,7 +132,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://cdn.prod.website-files.com/620e6fc20903c76d73735e50/62288919e736452d548ac04d_Untitled-3.jpg" class="img-fluid">
+                    <img src="img/miyawaki/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Miyawaki Forest Maintenance – Sustainable & Self-Sufficient Growth</h2>
@@ -159,7 +159,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://www.greenyatra.org/images/gallery/01.jpg" class="img-fluid">
+                    <img src="img/miyawaki/5.jpg" class="img-fluid">
                 </div>
             </div>
 
