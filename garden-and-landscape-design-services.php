@@ -87,7 +87,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://wildbloomlandscapes.com/wp-content/uploads/2017/10/InkedInkedVarley-Plans1_LI.jpg" class="img-fluid" alt="Garden & Landscape Design Services in Mumbai">
+                    <img src="img/landscape/2.jpg" class="img-fluid" alt="Garden & Landscape Design Services in Mumbai">
                 </div>
             </div>
             
@@ -96,7 +96,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://www.dynascape.com/wp-content/uploads/group-of-landscapers-overlooking-landscape-design.jpg" class="img-fluid">
+                    <img src="img/landscape/1.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Landscape Development – Bringing Your Vision to Life</h2>
@@ -124,7 +124,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://images.squarespace-cdn.com/content/v1/59cb502e1f318dc50f160957/564bffa3-7ad1-437c-9075-c18f7a0c65df/hedge-trimming-tricks.jpg" class="img-fluid">
+                    <img src="img/landscape/3.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -139,7 +139,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://img.staticmb.com/mbcontent/images/crop/uploads/2023/1/Front-Garden-Ideas_0_1200.jpg" class="img-fluid">
+                    <img src="img/landscape/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     
