@@ -89,7 +89,7 @@ include 'includes/config.php';
                     
                 </div>
                 <div class="col-md-6">
-                    <img src="https://i.pinimg.com/564x/b9/d3/6e/b9d36e6851a5a3bee5bf5605a58a38fd.jpg" class="img-fluid">
+                    <img src="img/butterfly.jpg" class="img-fluid">
                 </div>
             </div>
             
