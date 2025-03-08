@@ -90,7 +90,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://media.istockphoto.com/id/957245348/photo/wooden-terrace-surrounded-by-greenery.jpg?s=612x612&w=0&k=20&c=T9C2Z8kqqTVm_b_xcQ0Jh-u2L-zdrJ3sJjjerWWlHNk=" class="img-fluid">
+                    <img src="img/terrace/1.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -98,7 +98,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://media.istockphoto.com/id/519738002/photo/friendly-team-harvesting-fresh-vegetables-from-the-rooftop-greenhouse-garden.jpg?s=612x612&w=0&k=20&c=k8MpaYzPZ-NRYKiQgkG-6-QKaRcH_miIuv1hWJJIs5o=" class="img-fluid">
+                    <img src="img/terrace/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Terrace Garden Installation – Bringing Your Vision to Life</h2>
@@ -130,7 +130,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://www.ugaoo.com/cdn/shop/articles/shutterstock_511739455.jpg?v=1661878128" class="img-fluid">
+                    <img src="img/terrace/3.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -138,7 +138,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://i.ytimg.com/vi/q-SJsgDMGbw/maxresdefault.jpg" class="img-fluid">
+                    <img src="img/terrace/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h3>Why Choose Us</h3>
