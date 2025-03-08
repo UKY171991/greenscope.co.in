@@ -86,7 +86,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://www.hybridpestcontrol.com/wp-content/uploads/2021/05/pest-control-UT-hybridpestcontrol-scaled-2560x1280.jpeg" class="img-fluid">
+                    <img src="img/pest/1.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -95,7 +95,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://www.hybridpestcontrol.com/wp-content/uploads/2023/04/Can-Termites-Come-Back-After-Treatment-scaled-1200x600.jpeg" class="img-fluid">
+                    <img src="img/pest/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Termite Control – Protect Your Property from Damage</h2>
@@ -121,7 +121,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://privateexterminator.com/wp-content/uploads/2023/09/How-Does-a-Mouse-Trap-Work.png" class="img-fluid">
+                    <img src="img/pest/3.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -129,7 +129,7 @@ include 'includes/config.php';
             
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://cpcindia.in/wp-content/uploads/2023/07/bed-bug-min.jpg" class="img-fluid">
+                    <img src="img/pest/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Mosquito & Bed Bug Control – Sleep & Breathe Easy</h2>
@@ -156,7 +156,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://thumbs.dreamstime.com/b/happy-black-family-laughing-playing-tickling-children-home-happy-black-family-laughing-playing-children-home-cheerful-136498693.jpg" class="img-fluid">
+                    <img src="img/pest/5.jpg" class="img-fluid">
                 </div>
             </div>
 
