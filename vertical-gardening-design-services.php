@@ -90,14 +90,14 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://st.hzcdn.com/simgs/pictures/landscapes/parkside-garden-scott-lewis-landscape-architecture-img~16e135d704502865_14-8313-1-1d943b9.jpg" class="img-fluid">
+                    <img src="img/vertical/1.jpg" class="img-fluid">
                 </div>
             </div>
 
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://www.verticalgardensaustralia.com.au/wp-content/uploads/2023/02/DSC00176-768x512.webp" class="img-fluid">
+                    <img src="img/vertical/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Vertical Garden Installation – Bringing Greenery to Your Walls</h2>
@@ -129,7 +129,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://housedesigner.com/wp-content/uploads/2024/03/IMG_5926-optimized.jpg" class="img-fluid">
+                    <img src="img/vertical/3.jpg" class="img-fluid">
                 </div>
             </div>
 
@@ -138,7 +138,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://lifehacker.com/imagery/slideshow/01HF2HTM2RPZA9GCSE0G8NYBNR/hero-image.jpg" class="img-fluid">
+                    <img src="img/vertical/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h3>Why Choose Us</h3>
