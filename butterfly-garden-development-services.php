@@ -96,7 +96,7 @@ include 'includes/config.php';
             
             <div class="row  mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://www.ugaoo.com/cdn/shop/articles/shutterstock_207228412.jpg?v=1661852722" class="img-fluid">
+                    <img src="img/butterfly/2.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
                     <h2>Site Selection & Garden Planning</h2>
@@ -124,13 +124,13 @@ include 'includes/config.php';
                     
                 </div>
                 <div class="col-md-6">
-                    <img src="https://www.gardendesign.com/pictures/images/675x529Max/site_3/milkweed-plant-monarch-butterfly-shutterstock-com_12623.jpg" class="img-fluid">
+                    <img src="img/butterfly/3.jpg" class="img-fluid">
                 </div>
             </div>
 
             <div class="row  mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="https://cdn.shopify.com/s/files/1/0573/3993/6868/files/Butterfly_Garden_fe314022-be26-40ef-a704-521143c7522f.jpg?v=1661909501" class="img-fluid">
+                    <img src="img/butterfly/4.jpg" class="img-fluid">
                 </div>
                 <div class="col-md-6">
 
@@ -159,7 +159,7 @@ include 'includes/config.php';
                     
                 </div>
                 <div class="col-md-6">
-                    <img src="https://t3.ftcdn.net/jpg/03/51/40/20/360_F_351402022_Dx6yILBvfp8L7T2QOhsmKgYhHHR4GBuK.jpg" class="img-fluid">
+                    <img src="img/butterfly/5.jpg" class="img-fluid">
                 </div>
             </div>
         </div>
