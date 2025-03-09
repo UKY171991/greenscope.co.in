@@ -96,7 +96,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/landscape/1.jpg" class="img-fluid">
+                    <img src="img/landscape/1.jpg" class="img-fluid" alt="Group of Professional Landscapers Analyzing a Landscape Design Plan Outdoors.">
                 </div>
                 <div class="col-md-6">
                     <h2>Landscape Development – Bringing Your Vision to Life</h2>
@@ -124,7 +124,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/landscape/3.jpg" class="img-fluid">
+                    <img src="img/landscape/3.jpg" class="img-fluid" alt="Professional gardener trimming a hedge with precision using electric shears.">
                 </div>
             </div>
 
@@ -139,7 +139,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/landscape/1.jpg" class="img-fluid">
+                    <img src="img/landscape/1.jpg" class="img-fluid" alt="Beautifully designed front garden with lush greenery, vibrant flowers, and a well-maintained pathway.">
                 </div>
                 <div class="col-md-6">
                     
