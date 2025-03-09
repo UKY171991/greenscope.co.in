@@ -88,7 +88,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/maintenance/1.jpg" class="img-fluid">
+                    <img src="img/maintenance/1.jpg" class="img-fluid" alt="Garden Maintenance Services in Mumbai">
                 </div>
             </div>
 
@@ -96,7 +96,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/maintenance/2.jpg" class="img-fluid">
+                    <img src="img/maintenance/2.jpg" class="img-fluid" alt="Self-watering garden setup with automated irrigation for efficient plant growth.">
                 </div>
                 <div class="col-md-6">
                     <h2>Garden Watering & Irrigation Management</h2>
@@ -121,7 +121,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/maintenance/3.jpg" class="img-fluid">
+                    <img src="img/maintenance/3.jpg" class="img-fluid" alt="Landscaper working on a professional garden and landscape design project.">
                 </div>
             </div>
 
@@ -130,7 +130,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/maintenance/4.jpg" class="img-fluid">
+                    <img src="img/maintenance/4.jpg" class="img-fluid" alt="Gardener using a portable sprayer for pest control and weed management in a lawn.">
                 </div>
                 <div class="col-md-6">
                     <h2>Garden Spraying & Pest Control Services</h2>
@@ -157,7 +157,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/maintenance/5.jpg" class="img-fluid">
+                    <img src="img/maintenance/5.jpg" class="img-fluid" alt="Modern home garden with lush green plants and a stylish outdoor landscape design.">
                 </div>
             </div>
 
