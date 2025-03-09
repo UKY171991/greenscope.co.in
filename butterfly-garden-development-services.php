@@ -89,14 +89,14 @@ include 'includes/config.php';
                     
                 </div>
                 <div class="col-md-6">
-                    <img src="img/butterfly/1.jpg" class="img-fluid">
+                    <img src="img/butterfly/1.jpg" class="img-fluid" alt="Butterfly Garden Development in Mumbai">
                 </div>
             </div>
             
             
             <div class="row  mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/butterfly/2.jpg" class="img-fluid">
+                    <img src="img/butterfly/2.jpg" class="img-fluid" alt="Lush green home garden with a variety of potted plants and outdoor landscaping.">
                 </div>
                 <div class="col-md-6">
                     <h2>Site Selection & Garden Planning</h2>
@@ -124,13 +124,13 @@ include 'includes/config.php';
                     
                 </div>
                 <div class="col-md-6">
-                    <img src="img/butterfly/3.jpg" class="img-fluid">
+                    <img src="img/butterfly/3.jpg" class="img-fluid" alt="Monarch butterfly resting on a vibrant milkweed plant in a butterfly garden.">
                 </div>
             </div>
 
             <div class="row  mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/butterfly/4.jpg" class="img-fluid">
+                    <img src="img/butterfly/4.jpg" class="img-fluid" alt="Beautiful butterfly garden with colorful flowers and native plants attracting butterflies.">
                 </div>
                 <div class="col-md-6">
 
@@ -159,7 +159,7 @@ include 'includes/config.php';
                     
                 </div>
                 <div class="col-md-6">
-                    <img src="img/butterfly/5.jpg" class="img-fluid">
+                    <img src="img/butterfly/5.jpg" class="img-fluid" alt="Green vertical garden with dense foliage, enhancing urban landscape aesthetics.">
                 </div>
             </div>
         </div>
