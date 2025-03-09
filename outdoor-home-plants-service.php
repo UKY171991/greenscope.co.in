@@ -87,7 +87,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/outdoor/1.jpg" class="img-fluid">
+                    <img src="img/outdoor/1.jpg" class="img-fluid" alt="Outdoor Home Plants Services in Mumbai">
                 </div>
             </div>
 
@@ -95,7 +95,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/outdoor/2.jpg" class="img-fluid">
+                    <img src="img/outdoor/2.jpg" class="img-fluid" alt="Lush green balcony garden with potted plants and vibrant flowers.">
                 </div>
                 <div class="col-md-6">
                     <h2>Outdoor Home Plants – Balcony & Garden Plant Solutions</h2>
@@ -127,13 +127,13 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/outdoor/3.jpg" class="img-fluid">
+                    <img src="img/outdoor/3.jpg" class="img-fluid" alt="Urban balcony garden with hanging planters and outdoor greenery for small spaces.">
                 </div>
             </div>
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/outdoor/4.jpg" class="img-fluid">
+                    <img src="img/outdoor/4.jpg" class="img-fluid" alt="Terrace garden design with lush greenery and wooden seating for outdoor relaxation.">
                 </div>
                 <div class="col-md-6">
                     <h3>Why Choose Us?</h3>
