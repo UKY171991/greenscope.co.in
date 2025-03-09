@@ -90,7 +90,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/terrace/1.jpg" class="img-fluid">
+                    <img src="img/terrace/1.jpg" class="img-fluid" alt="Terrace Garden Design Services in Mumbai">
                 </div>
             </div>
 
@@ -98,7 +98,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/terrace/2.jpg" class="img-fluid">
+                    <img src="img/terrace/2.jpg" class="img-fluid" alt="Team harvesting fresh organic vegetables from a rooftop greenhouse garden.">
                 </div>
                 <div class="col-md-6">
                     <h2>Terrace Garden Installation – Bringing Your Vision to Life</h2>
@@ -130,7 +130,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/terrace/3.jpg" class="img-fluid">
+                    <img src="img/terrace/3.jpg" class="img-fluid" alt="Lush green home garden with potted plants and a beautifully landscaped outdoor space.">
                 </div>
             </div>
 
@@ -138,7 +138,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/terrace/4.jpg" class="img-fluid">
+                    <img src="img/terrace/4.jpg" class="img-fluid" alt="Garden maintenance expert trimming plants for a well-manicured landscape design.">
                 </div>
                 <div class="col-md-6">
                     <h3>Why Choose Us</h3>
