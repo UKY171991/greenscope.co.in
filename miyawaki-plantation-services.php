@@ -88,7 +88,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/miyawaki/1.jpg" class="img-fluid">
+                    <img src="img/miyawaki/1.jpg" class="img-fluid" alt="Miyawaki Plantation in Mumbai">
                 </div>
             </div>
 
@@ -96,7 +96,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/miyawaki/2.jpg" class="img-fluid">
+                    <img src="img/miyawaki/2.jpg" class="img-fluid" alt="Tree plantation drive promoting afforestation and environmental conservation.">
                 </div>
                 <div class="col-md-6">
                     <h2>Site Selection & Soil Preparation</h2>
@@ -124,7 +124,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/miyawaki/3.jpg" class="img-fluid">
+                    <img src="img/miyawaki/3.jpg" class="img-fluid" alt="Miyawaki forest plantation with dense native trees for rapid green cover development.">
                 </div>
             </div>
 
@@ -132,7 +132,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/miyawaki/4.jpg" class="img-fluid">
+                    <img src="img/miyawaki/4.jpg" class="img-fluid" alt="Sustainable urban greening project with native plants and eco-friendly landscape design.">
                 </div>
                 <div class="col-md-6">
                     <h2>Miyawaki Forest Maintenance – Sustainable & Self-Sufficient Growth</h2>
@@ -159,7 +159,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/miyawaki/5.jpg" class="img-fluid">
+                    <img src="img/miyawaki/5.jpg" class="img-fluid" alt="Miyawaki Plantion Before and After Project">
                 </div>
             </div>
 
