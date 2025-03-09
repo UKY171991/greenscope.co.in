@@ -86,7 +86,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/pest/1.jpg" class="img-fluid">
+                    <img src="img/pest/1.jpg" class="img-fluid" alt="Pest Control Services in Mumbai">
                 </div>
             </div>
 
@@ -95,7 +95,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/pest/2.jpg" class="img-fluid">
+                    <img src="img/pest/2.jpg" class="img-fluid" alt="Termite control treatment to prevent infestation and property damage.">
                 </div>
                 <div class="col-md-6">
                     <h2>Termite Control – Protect Your Property from Damage</h2>
@@ -121,7 +121,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/pest/3.jpg" class="img-fluid">
+                    <img src="img/pest/3.jpg" class="img-fluid" alt="Rodent control solution using a mouse trap for effective pest management.">
                 </div>
             </div>
 
@@ -129,7 +129,7 @@ include 'includes/config.php';
             
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/pest/4.jpg" class="img-fluid">
+                    <img src="img/pest/4.jpg" class="img-fluid" alt="Bed bug extermination service for a pest-free and hygienic living space.">
                 </div>
                 <div class="col-md-6">
                     <h2>Mosquito & Bed Bug Control – Sleep & Breathe Easy</h2>
@@ -156,7 +156,7 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/pest/5.jpg" class="img-fluid">
+                    <img src="img/pest/5.jpg" class="img-fluid" alt="Hire Professional Pest Control Agency">
                 </div>
             </div>
 
