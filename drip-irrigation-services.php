@@ -91,7 +91,7 @@ include 'includes/navigation.php';
                     </div>
                     </div>
                     <div class="col-md-6">
-                        <img src="img/drip/1.jpg" class="img-fluid" alt="Drip Irrigation Services in Mumbai">
+                        <img src="img/drip/6.jpg" class="img-fluid" alt="Drip Irrigation Services in Mumbai">
                     </div>
                 </div>
 
@@ -103,7 +103,7 @@ include 'includes/navigation.php';
             <div class="row g-5 align-items-end mt-3">
 
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="img/drip/2.jpg" class="img-fluid" alt="Modern glass architecture with seamless garden integration.">
+                    <img src="img/drip/4.jpg" class="img-fluid" alt="Modern glass architecture with seamless garden integration.">
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h3 class="mb-4">Key Benefits of Drip Irrigation & Sprinkler Systems </h3>
@@ -137,7 +137,7 @@ include 'includes/navigation.php';
             <div class="row g-5 align-items-end mt-3">
 
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="img/drip/4.jpg" class="img-fluid" alt="Drip Irrigation Maintenance & Repair Services">
+                    <img src="img/drip/1.jpg" class="img-fluid" alt="Drip Irrigation Maintenance & Repair Services">
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h2 class="mb-4">Drip Irrigation Maintenance & Repair Services </h2>
@@ -162,7 +162,7 @@ include 'includes/navigation.php';
                     <p class="mb-4">✔ <b>Fixed Sprinklers</b> – Provides steady water flow for farms and nurseries.</p>
 
                 </div>
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-6 col-md-2 wow fadeInUp" data-wow-delay="0.3s">
                     <img src="img/drip/5.jpg" class="img-fluid" alt="Sprinkler Irrigation System">
                 </div>
                 
@@ -171,7 +171,7 @@ include 'includes/navigation.php';
 
             <div class="row g-5 align-items-end mt-3">
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="img/drip/6.jpg" class="img-fluid" alt="Irrigation Service and Maintenance Agecny">
+                    <img src="img/drip/5.jpg" class="img-fluid" alt="Irrigation Service and Maintenance Agecny">
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h4 class="mb-4">Why Choose Us </h4>
