@@ -121,7 +121,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/maintenance/3.jpg" class="img-fluid" alt="Landscaper working on a professional garden and landscape design project.">
+                    <img src="img/maintenance/4.jpg" class="img-fluid" alt="Landscaper working on a professional garden and landscape design project.">
                 </div>
             </div>
 
@@ -130,7 +130,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/maintenance/4.jpg" class="img-fluid" alt="Gardener using a portable sprayer for pest control and weed management in a lawn.">
+                    <img src="img/maintenance/3.jpg" class="img-fluid" alt="Gardener using a portable sprayer for pest control and weed management in a lawn.">
                 </div>
                 <div class="col-md-6">
                     <h2>Garden Spraying & Pest Control Services</h2>
