@@ -163,7 +163,7 @@ include 'includes/navigation.php';
 
                 </div>
                 <div class="col-lg-6 col-md-2 wow fadeInUp" data-wow-delay="0.3s">
-                    <img src="img/drip/5.jpg" class="img-fluid" alt="Sprinkler Irrigation System">
+                    <img src="img/drip/2.jpg" class="img-fluid" alt="Sprinkler Irrigation System">
                 </div>
                 
             </div>
