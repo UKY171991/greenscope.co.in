@@ -94,7 +94,7 @@ include 'includes/config.php';
             
 
             <div class="row mt-5 mb-5">
-                <div class="col-md-6">
+                <div class="col-md-6"> 
                     <img src="img/pest/1.jpg" class="img-fluid" alt="Termite control treatment to prevent infestation and property damage.">
                 </div>
                 <div class="col-md-6">
