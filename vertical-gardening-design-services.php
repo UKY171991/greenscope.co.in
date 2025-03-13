@@ -90,14 +90,14 @@ include 'includes/config.php';
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/vertical/1.jpg" class="img-fluid" alt="Vertical Gardening Design Services in Mumbai">
+                    <img src="img/vertical/2.jpg" class="img-fluid" alt="Vertical Gardening Design Services in Mumbai">
                 </div>
             </div>
 
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/vertical/2.jpg" class="img-fluid" alt="Modern vertical garden with lush green plants installed on an outdoor wall.">
+                    <img src="img/vertical/4.jpg" class="img-fluid" alt="Modern vertical garden with lush green plants installed on an outdoor wall.">
                 </div>
                 <div class="col-md-6">
                     <h2>Vertical Garden Installation – Bringing Greenery to Your Walls</h2>
@@ -138,7 +138,7 @@ include 'includes/config.php';
 
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/vertical/4.jpg" class="img-fluid" alt="Green rooftop garden with potted plants and a cozy outdoor seating area.">
+                    <img src="img/vertical/1.jpg" class="img-fluid" alt="Green rooftop garden with potted plants and a cozy outdoor seating area.">
                 </div>
                 <div class="col-md-6">
                     <h3>Why Choose Us</h3>
