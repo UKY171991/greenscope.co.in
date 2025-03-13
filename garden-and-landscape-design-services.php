@@ -124,7 +124,7 @@ include 'includes/config.php';
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/landscape/3.jpg" class="img-fluid" alt="Professional gardener trimming a hedge with precision using electric shears.">
+                    <img src="img/landscape/2.jpg" class="img-fluid" alt="Professional gardener trimming a hedge with precision using electric shears.">
                 </div>
             </div>
 
