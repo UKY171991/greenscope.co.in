@@ -96,7 +96,7 @@ include 'includes/config.php';
             
             <div class="row mt-5 mb-5">
                 <div class="col-md-6">
-                    <img src="img/land/2.jpg" class="img-fluid" alt="Female agronomist using smart technology for farm management.">
+                    <img src="img/land/3.jpg" class="img-fluid" alt="Female agronomist using smart technology for farm management.">
                 </div>
                 <div class="col-md-6">
                     <h2>Agricultural Land Valuation</h2>
@@ -146,7 +146,7 @@ include 'includes/config.php';
                         <p>✔ Timely & Professional Service – Fast, reliable, and unbiased agricultural assessments.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/land/3.jpg" class="img-fluid" alt="Understanding of Land Valuation">
+                    <img src="img/land/2.jpg" class="img-fluid" alt="Understanding of Land Valuation">
                 </div>
             </div>
 
