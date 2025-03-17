@@ -19,9 +19,9 @@
                 <h4 class="text-white mb-4">Follow Us</h4>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-light rounded-circle me-2"
-                        href="https://www.facebook.com/greenscope"><i class="fab fa-facebook-f"></i></a>
+                        href="https://www.facebook.com/sham.gaidhane/"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-square btn-outline-light rounded-circle me-2"
-                        href="https://www.instagram.com/greenscope.solutions"><i class="fab fa-instagram"></i></a>
+                        href="https://www.linkedin.com/in/dr-sham-gaidhane-94889121/"><i class="fab fa-linkden"></i></a>
                 </div>
             </div>
         </div>
