@@ -12,7 +12,7 @@ include 'includes/config.php';
     <meta content="Explore our GreenScope gallery showcasing stunning landscape designs, terrace gardens, butterfly gardens, and more. See our successful projects." name="description">
 
     <!-- Favicon -->
-    <link href="<?=$bu?>img/favicon.ico" rel="icon">
+    <link href="<?=$bu?>img/logo.png" rel="icon">
 
     <link rel="canonical" href="https://greenscope.co.in/gallery.php" />
 

@@ -12,7 +12,7 @@ include 'includes/config.php';
     <meta content="GreenScope" name="keywords">
 
     <!-- Favicon -->
-    <link href="<?=$bu?>img/favicon.ico" rel="icon">
+    <link href="<?=$bu?>img/logo.png" rel="icon">
 
     <link rel="canonical" href="https://greenscope.co.in/miyawaki-plantation-services.php" />
 

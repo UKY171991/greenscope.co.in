@@ -12,7 +12,7 @@ include 'includes/config.php';
     <meta content="Get in touch with GreenScope for professional landscaping, garden design, and horticulture consultancy in Mumbai. Call now or visit our office." name="description">
 
     <!-- Favicon -->
-    <link href="<?=$bu?>img/favicon.ico" rel="icon">
+    <link href="<?=$bu?>img/logo.png" rel="icon">
 
     <link rel="canonical" href="https://greenscope.co.in/contact.php" />
 
