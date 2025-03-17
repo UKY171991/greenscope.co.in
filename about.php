@@ -12,7 +12,7 @@ include 'includes/config.php';
     <meta content="Learn about GreenScope, led by Dr. Sham Gaidhane, a leading landscape consultancy and horticulture expert with 30+ years of experience in Mumbai." name="description">
 
     <!-- Favicon -->
-    <link href="<?=$bu?>img/favicon.ico" rel="icon">
+    <link href="<?=$bu?>img/logo.png" rel="icon">
 
     <link rel="canonical" href="https://greenscope.co.in/about.php" />
 
