@@ -21,7 +21,7 @@
                     <a class="btn btn-square btn-outline-light rounded-circle me-2"
                         href="https://www.facebook.com/sham.gaidhane/"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-square btn-outline-light rounded-circle me-2"
-                        href="https://www.linkedin.com/in/dr-sham-gaidhane-94889121/"><i class="fab fa-linkden"></i></a>
+                        href="https://www.linkedin.com/in/dr-sham-gaidhane-94889121/"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
